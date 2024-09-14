@@ -83,3 +83,8 @@ button:disabled {
 .galare-contaener img.active{
     opacity: 1;
 }
+@media (max-width:425px) {
+    .galare-contaener{
+        width: 100%;
+    }
+}
